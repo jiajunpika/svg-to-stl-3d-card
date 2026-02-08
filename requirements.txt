@@ -7,3 +7,5 @@ trimesh>=3.20.0
 shapely>=2.0.0
 svgpathtools>=1.6.0
 scipy>=1.10.0
+triangle>=20230923
+mapbox-earcut>=1.0.0
